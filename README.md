@@ -25,6 +25,5 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeyongKim99&count_bg=%2399CCFF&title_bg=%234F4C4C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JaeyongKim99)
   
-  ![footer](https://capsule-render.vercel.app/api?type=Slice&reversal=false&color=99ccff&height=150&section=footer&text=%2&fontSize=70)
 </div>
 
